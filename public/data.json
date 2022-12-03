@@ -1,0 +1,99 @@
+[
+  {
+    "id": 1,
+    "ratings": 5,
+    "name": "STUDIO FIX FLUID SPF 15",
+    "img": "https://www.maccosmetics.com/media/export/cms/products/640x600/mac_sku_M6JC02_640x600_0.jpg",
+    "price": "36",
+    "category": "Foundation"
+  },
+  {
+    "id": 2,
+    "ratings": 3,
+    "name": "STUDIO FIX POWDER FOUNDATION",
+    "img": "https://www.maccosmetics.com/media/export/cms/products/640x600/mac_sku_M51028_640x600_0.jpg",
+    "price": "36",
+    "category": "Foundation"
+  },
+  {
+    "id": 3,
+    "ratings": 5,
+    "name": "MAC EYEBROW GEL",
+    "img": "https://www.maccosmetics.com/media/export/cms/products/640x600/mac_sku_SLEH01_640x600_0_NA.jpg",
+    "action": "Semi-Automatic",
+    "price": "10",
+    "category": "Eyebrow gel"
+  },
+  {
+    "id": 4,
+    "ratings": 4,
+    "name": "STUDIO FIX LIQUID FACE AND BODY FOUNDATION",
+    "img": "https://www.maccosmetics.com/media/export/cms/products/640x600/mac_sku_MWKR05_640x600_0.jpg",
+    "price": "42",
+    "category": "Foundation"
+  },
+  {
+    "id": 5,
+    "ratings": 4,
+    "name": "3D GLITTER TEXTURE",
+    "img": "https://www.maccosmetics.com/media/export/cms/collections/visual_arts/visual_arts_guide_dazzleshadow.jpg",
+    "price": "20",
+    "category": "Eye shadow"
+  },
+  {
+    "id": 6,
+    "ratings": 5,
+    "name": "LUSTREGLASS SHEER-SHINE LIPSTICK",
+    "img": "https://www.maccosmetics.com/media/export/cms/products/640x600/mac_sku_SMXF38_640x600_0.jpg",
+    "price": "22",
+    "category": "Lipstick"
+  },
+  {
+    "id": 7,
+    "ratings": 3,
+    "name": "LIPGLASS",
+    "img": "https://www.maccosmetics.com/media/export/cms/products/640x600/mac_sku_S3HT22_640x600_0.jpg",
+    "price": "19",
+    "category": "Lipstick"
+  },
+  {
+    "id": 8,
+    "ratings": 0,
+    "name": "LOVE ME LIPSTICK",
+    "img": "https://www.maccosmetics.com/media/export/cms/products/640x600/mac_sku_SG7345_640x600_0.jpg",
+    "price": "570",
+    "category": "Lipstick"
+  },
+  {
+    "id": 9,
+    "ratings": 3,
+    "name": "FUNDATION BRUSH",
+    "img": "https://www.maccosmetics.com/media/export/cms/products/640x600/mac_sku_S7H101_640x600_0.jpg",
+    "price": "45",
+    "category": "Bursh"
+  },
+  {
+    "id": 10,
+    "ratings": 4,
+    "name": "BRUSH CLEANER",
+    "img": "https://www.maccosmetics.com/media/export/cms/products/640x600/mac_sku_M86F01_640x600_0.jpg",
+    "price": "17",
+    "category": "Brush"
+  },
+  {
+    "id": 11,
+    "ratings": 5,
+    "name": "PRO EYE PALETTE: THE ROMANTIC",
+    "img": "https://www.maccosmetics.com/media/export/cms/products/640x600/mac_sku_S5NG04_640x600_0.jpg",
+    "price": "40",
+    "category": "Eye shadow"
+  },
+  {
+    "id": 12,
+    "ratings": 3,
+    "name": "STUDIO FIX CONTOUR PALETTE LIGHT/MEDIUM",
+    "img": "https://www.maccosmetics.com/media/export/cms/products/640x600/mac_sku_SFAX01_640x600_0.jpg",
+    "price": "41",
+    "category": "Face"
+  }
+]
